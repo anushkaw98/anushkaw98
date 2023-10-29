@@ -35,7 +35,7 @@
 
 
 [instagram]: https://www.instagram.com/anushka_weerasinghe_
-[linkedin]: www.linkedin.com/in/anushka-weerasinghe
+[linkedin]: https://www.linkedin.com/in/anushka-weerasinghe
 
 
 <!--
