@@ -1,4 +1,4 @@
-<h1>Hi, I'm anushka! <br/><a href="https://github.com/anushkaw98/anushkaw98">Programmer</a>, <a href="https://www.linkedin.com/in/anushka-weerasinghe"></a></h1>
+<h1>Hi, I'm anushka! <br/><a href="https://github.com/anushkaw98/anushkaw98">Devops engineer</a>, <a href="https://www.linkedin.com/in/anushka-weerasinghe"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
